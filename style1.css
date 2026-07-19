@@ -1,0 +1,34 @@
+.success-box{
+
+    padding: 80px 10%;
+    background-image: url("WhatsApp\ .jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.success-box h1{
+color:#0d6efd;
+margin-bottom:20px;
+}
+
+.success-box p{
+font-size:18px;
+margin:15px 0;
+color:#555;
+}
+
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 30px;
+background:#0d6efd;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
+
+.btn:hover{
+background:#084fc7;
+}
